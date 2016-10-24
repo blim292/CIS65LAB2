@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ListViewApp_BrianLim
+//  CIS22C_LAB2
 //
-//  Created by Brian Lim on 5/16/16.
+//  Created by Brian Lim on 10/24/16.
 //  Copyright © 2016 Brian Lim. All rights reserved.
 //
 
