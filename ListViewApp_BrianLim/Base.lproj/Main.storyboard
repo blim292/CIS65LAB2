@@ -175,6 +175,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="sectionIndexBackgroundColor" red="0.78248266463956007" green="0.89547253952598305" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="animalID" rowHeight="100" id="KwZ-5V-uW7" customClass="MyTableViewCell" customModule="ListViewApp_BrianLim" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="92" width="600" height="100"/>
@@ -199,6 +200,7 @@
                                             </variation>
                                         </label>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.78248266463956007" green="0.89547253952598305" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <variation key="default">
                                         <mask key="subviews">
                                             <exclude reference="6cd-xR-dgy"/>
@@ -239,6 +241,7 @@
                         <rect key="frame" x="0.0" y="975" width="768" height="49"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <color key="tintColor" red="0.78248266460000004" green="0.89547253950000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </tabBar>
                     <connections>
                         <segue destination="wx3-Ga-Bal" kind="relationship" relationship="viewControllers" id="ica-Wz-c0y"/>

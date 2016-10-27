@@ -37,7 +37,7 @@ class SecondViewController: UIViewController {
 //        view.layer.addSublayer(layer)
         
         textLabel.text = "Thank You for checking out the Animal Encyclopedia!"
-        aboutMeText.text = aboutMeText.text + "\n\nThis application was created for the sole purpose of demoing skills learned in iOS programming taught by Professor Goel.\n\nPlease forward any comments, questions, and bugs to blim292@gmail.com. \n\n"
+        aboutMeText.text = aboutMeText.text + "\nAesthetics designed by Shirley Li.\n\nThis application was created for the sole purpose of demoing skills learned in iOS programming taught by Professor Goel.\n\nPlease forward any comments, questions, and bugs to blim292@gmail.com.  \n\n"
         thumbsUp.image = UIImage(named: "thumbs_up")
     }
 
